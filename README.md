@@ -1,5 +1,4 @@
-# stormwatch-harbour-agentic-ai
-Agentic AI coursework project simulating a storm-aware harbour, with multiple agent policies, repeatable seed-based results, and a berth-balancing comparison.
+
 # Stormwatch Harbour — Agentic AI Assignment 2
 
 This project simulates a harbour where dockworkers deliver cargo from ships to a warehouse. The agents make decisions about which ship to serve and how to respond to storm warnings.
